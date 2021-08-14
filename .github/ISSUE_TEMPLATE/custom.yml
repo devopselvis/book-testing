@@ -1,12 +1,3 @@
----
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
-
----
-
 name: 💡 Custom Issue Form
 description: A custom form with different fields
 body:
